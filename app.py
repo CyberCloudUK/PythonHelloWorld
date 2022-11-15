@@ -1,3 +1,4 @@
-birth_year = input('Enter your year of birth: ')
-age = 2022 - int(birth_year)
-print(age)
+First = input('First: ')
+Second = input('Second: ')
+Sum = float(First) + int(Second)
+print(Sum)
